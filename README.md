@@ -1,17 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
 <h3 align="center">A passionate MEAN stack developer from Egypt</h3>
 
-- 🔭 I’m currently working on [Graduation Project](https://github.com/morsy74/E-Guide)
-
-- 🌱 I’m currently learning **Angular**
-
-- 👨‍💻 All of my projects are available at [https://github.com/morsy74](https://github.com/morsy74)
-
-- 💬 Ask me about **node js and mongo db**
-
-- 📫 How to reach me **mahmoudmorsy530@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
+I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
