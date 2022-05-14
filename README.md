@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
 <h3 align="center">A passionate MEAN stack developer from Egypt</h3>
 
-I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
+I'm Mahmoud Morsy from Egypte, and I do content on Development. I really enjoy learning languages and frameworks like Angular and Node Js, as well as work in python. I also enjoy wireframing, Data Analysis in general.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
