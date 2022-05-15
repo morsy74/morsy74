@@ -13,7 +13,7 @@ I'm Mahmoud Morsy from Egypt, and I do content on Data Analysis and Development.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/m_morsy11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_morsy11" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-morsy-274775174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-morsy-274775174" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-morsy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-morsy-274775174" height="30" width="40" /></a>
 <a href="https://fb.com/m.morsy74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.morsy74" height="30" width="40" /></a>
 <a href="https://instagram.com/m_morsy74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_morsy74" height="30" width="40" /></a>
 </p>
