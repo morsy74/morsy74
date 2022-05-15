@@ -13,6 +13,12 @@ I'm Mahmoud Morsy from Egypt, and I do content on Data Analysis and Development.
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
+ 🌱 I’m currently learning Backend Development 
+
+- 📫 How to reach me **mahmoudmorsy530@gmail.com**
+
+- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=morsy74&show_icons=true&theme=vision-friendly-dark)
 
 <h3 align="left">Connect with me:</h3>
