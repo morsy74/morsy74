@@ -3,6 +3,16 @@
 
 I'm Mahmoud Morsy from Egypt, and I do content on Data Analysis and Development. I really enjoy learning languages and frameworks like Angular and Node Js.
 
+<br>
+
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=morsy74&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
+
+<br>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=morsy74&show_icons=true&theme=vision-friendly-dark)
 
 <h3 align="left">Connect with me:</h3>
